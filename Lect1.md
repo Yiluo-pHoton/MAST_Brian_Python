@@ -28,12 +28,16 @@ Week 1
 * Terminal
 	* Terminal is much more powerful than the Python IDLE, and is crucial in learning programming, we will spend some time talking about it next week.
 * Running your first python code `Hello World!` 
+* Primitive data types
+	* string
+	* int
+	* double
+	* float
+	* list
+* Basic function call: `print()`
 
 * **Homework**:
-	* Install the latest `Python 3`
-		* You may consult this website: 
-		* https://www.w3schools.com/python/python_getstarted.asp
 	* Install `pytest` for your `python 3`
+		* In your IDLE, type `import pytest` and run it. If an error does not occur, you have successfully installed `pytest`
 	* Successfully print `Hello World!` using `python` in your terminal
 	* Find 5 examples for each type of programming languages
-	* Suppose you are writing a computer program to 
