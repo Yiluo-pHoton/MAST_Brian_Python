@@ -1,4 +1,4 @@
-Homework 1
+Homework 0
 -------
 * Install `pip` and `pytest` for your `python 3`
   * Open up a terminal (which I recommend iTerm instead of your build-in terminal on macbook), and type `pip --version`. Do you think you have it installed?
