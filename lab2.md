@@ -13,7 +13,7 @@ Step by Step Instructions
 
 **Step 1:** Bring up IDLE as usual, and open a new window for function definitions
 
-Start IDLE. Then, select &quot;File-&gt;New Window&quot; and add a comment at the top of this new file like the following (with the proper substitutions of course): 
+Start IDLE. Then, select &quot;File-&gt;New File&quot; and add a comment at the top of this new file like the following (with the proper substitutions of course): 
 
 <pre>
 # lab2.py
@@ -21,7 +21,7 @@ Start IDLE. Then, select &quot;File-&gt;New Window&quot; and add a comment at th
 # a cipher function and test cases
 </pre>
 
-Then, save it under the name lab03.py inside your lab03 directory.
+Then, save it under the name lab2.py inside your lab2 directory.
 
 **Step 2:** Design rot13 cipher. 
 You have been hired as a programmer! Your mission is to write a program that encrypts a string of text (rot is short for rotate):
